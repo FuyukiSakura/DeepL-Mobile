@@ -18,11 +18,14 @@ What is more, it provides Android Integration so you can translate with DeepL ea
 
 ## FAQ
 
-Q: Isn't this just another rip-off from DeepL?
-A: No, the app does not contain any component that makes money for me.
+- Isn't this just another rip-off from DeepL?
 
-Q: Why should I trust you?
-A: If you don't trust me, trust the code!
+> No, the app does not contain any component that makes money for me.
 
-Q: This sounds too good. Why would you do this?
-A: I created the app purely for myself such that I can benefit from DeepL on my phone. It doesn't make sense to rip myself off at all!
+- Why should I trust you?
+
+> If you don't trust me, trust the code!
+
+- This sounds too good. Why would you do this?
+
+> I created the app purely for myself such that I can benefit from DeepL on my phone. It doesn't make sense to rip myself off at all!
