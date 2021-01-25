@@ -4,21 +4,6 @@
              x:Class="Utosoft.DeepLMobile.MainPage">
 
     <Grid>
-        <Grid.RowDefinitions>
-            <RowDefinition />
-            <RowDefinition Height="Auto" />
-        </Grid.RowDefinitions>
         <WebView Source="https://www.deepl.com/translator" />
-        <Label Grid.Row="1"
-               x:Name="SelectedTextDisplay"
-               LineBreakMode="NoWrap"
-               Padding="5">
-            <Label.GestureRecognizers>
-                <TapGestureRecognizer
-                    Tapped="SelectedTextDisplay_OnTapped"
-                    NumberOfTapsRequired="1">
-                </TapGestureRecognizer>
-            </Label.GestureRecognizers> 
-        </Label>
     </Grid>
 </ContentPage>
