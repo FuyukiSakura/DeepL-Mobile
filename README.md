@@ -1,8 +1,10 @@
-# DeepL-Mobile
+# DeepL Mobile
 
 Welcome all here. First of all. This an **unofficial** DeepL mobile app.
 
-This repo exists because I saw some guys trying to steal DeepL's revenue by making a web browser app to DeepL's site and adding ads to it. So, this is just a similar browser app but **without Ads**!!
+This repo exists because I saw some guys trying to *steal* DeepL's revenue by making a web browser app to DeepL's site and add ads to it. So, this is just a similar browser app but **without Ads** and **we can do more**!!
+
+The project is published with MIT LICENSE to provide flexibility for DeepL to use my code if they decided to have an offical mobile app.
 
 ## Main features
 
