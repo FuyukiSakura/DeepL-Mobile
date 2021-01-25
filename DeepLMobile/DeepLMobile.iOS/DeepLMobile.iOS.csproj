@@ -128,7 +128,7 @@
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
-    <ProjectReference Include="..\DeepL-Mobile\DeepLMobile.csproj">
+    <ProjectReference Include="..\DeepLMobile\DeepLMobile.csproj">
       <Project>{266D2A33-1425-42DE-B96D-44B948D3E910}</Project>
       <Name>DeepLMobile</Name>
     </ProjectReference>
