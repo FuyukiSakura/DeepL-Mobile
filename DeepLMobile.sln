@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepL-Mobile.Android", "DeepL-Mobile\DeepL-Mobile.Android\DeepL-Mobile.Android.csproj", "{500E386A-2416-403A-BD5F-DA15D2AE9D17}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepLMobile.Android", "DeepL-Mobile\DeepL-Mobile.Android\DeepLMobile.Android.csproj", "{500E386A-2416-403A-BD5F-DA15D2AE9D17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepL-Mobile.iOS", "DeepL-Mobile\DeepL-Mobile.iOS\DeepL-Mobile.iOS.csproj", "{90010C14-15CF-4F9C-89A7-D6065E1DC6B5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepLMobile.iOS", "DeepL-Mobile\DeepL-Mobile.iOS\DeepLMobile.iOS.csproj", "{90010C14-15CF-4F9C-89A7-D6065E1DC6B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepL-Mobile", "DeepL-Mobile\DeepL-Mobile\DeepL-Mobile.csproj", "{266D2A33-1425-42DE-B96D-44B948D3E910}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepLMobile", "DeepL-Mobile\DeepL-Mobile\DeepLMobile.csproj", "{266D2A33-1425-42DE-B96D-44B948D3E910}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

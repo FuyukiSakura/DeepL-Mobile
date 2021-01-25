@@ -2,7 +2,7 @@
 using Android.Content;
 using Android.OS;
 
-namespace DeepL_Mobile.Droid
+namespace Utosoft.DeepLMobile.Droid
 {
     [Activity(Label = "DeepL", NoHistory = true)]
     [IntentFilter(new [] { Intent.ActionProcessText },
