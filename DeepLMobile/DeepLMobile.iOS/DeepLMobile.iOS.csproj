@@ -9,9 +9,9 @@
     <ProjectTypeGuids>{FEACFBD2-3405-455C-9665-78FE426C6842};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <TemplateGuid>{6143fdea-f3c2-4a09-aafa-6e230626515e}</TemplateGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>DeepL_Mobile.iOS</RootNamespace>
+    <RootNamespace>Utosoft.DeepLMobile.iOS</RootNamespace>
     <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
-    <AssemblyName>DeepL-Mobile.iOS</AssemblyName>
+    <AssemblyName>Utosoft.DeepLMobile.iOS</AssemblyName>
     <MtouchEnableSGenConc>true</MtouchEnableSGenConc>
     <MtouchHttpClientHandler>NSUrlSessionHandler</MtouchHttpClientHandler>
     <ProvisioningType>automatic</ProvisioningType>
@@ -128,9 +128,9 @@
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
-    <ProjectReference Include="..\DeepL-Mobile\DeepL-Mobile.csproj">
-      <Project>{CB30D87F-5D77-448E-A729-D7D673E6A5BA}</Project>
-      <Name>DeepL-Mobile</Name>
+    <ProjectReference Include="..\DeepLMobile\DeepLMobile.csproj">
+      <Project>{266D2A33-1425-42DE-B96D-44B948D3E910}</Project>
+      <Name>DeepLMobile</Name>
     </ProjectReference>
   </ItemGroup>
 </Project>

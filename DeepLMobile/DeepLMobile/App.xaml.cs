@@ -1,8 +1,6 @@
-﻿using System;
-using Xamarin.Forms;
-using Xamarin.Forms.Xaml;
+﻿using Xamarin.Forms;
 
-namespace DeepL_Mobile
+namespace Utosoft.DeepLMobile
 {
     public partial class App : Application
     {
