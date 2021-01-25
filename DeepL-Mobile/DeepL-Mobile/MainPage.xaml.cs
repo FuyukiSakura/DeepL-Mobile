@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Xamarin.Essentials;
 using Xamarin.Forms;
 
 namespace DeepL_Mobile
@@ -13,6 +9,16 @@ namespace DeepL_Mobile
         public MainPage()
         {
             InitializeComponent();
+        }
+
+        /// <summary>
+        /// Handles selected text display on tapped event
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private async void SelectedTextDisplay_OnTapped(object sender, EventArgs e)
+        {
+            await Clipboard.SetTextAsync(SelectedTextDisplay.Text);
         }
     }
 }
